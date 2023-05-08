@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [my whatsapp bot.](github.com/thiagobmi/whatsapp_bot)
 
+- 📝  I'm currently undergoing my studies at Unipampa to become a Computer Scientist. 
+
 - 🌱 I’m currently learning **Django and Typescript.**
 
 - 💬 Ask me about **C, C++, Python and javascript.**
