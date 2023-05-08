@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A begginer developer from Brasil</h3>
 
 - 🔭 I’m currently working on [my whatsapp bot.](github.com/thiagobmi/whatsapp_bot)
 
