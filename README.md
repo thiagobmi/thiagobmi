@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 
-- 🔭 I’m currently working on [my whatsapp bot.](github.com/whatsapp_bot)
+- 🔭 I’m currently working on [my whatsapp bot.](/whatsapp_bot)
 
 - 📝  I'm undergoing my studies at Unipampa to become a Computer Scientist. 
 
