@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [my whatsapp bot.](github.com/thiagobmi/whatsapp_bot)
 
-- 📝  I'm currently undergoing my studies at Unipampa to become a Computer Scientist. 
+- 📝  I'm undergoing my studies at Unipampa to become a Computer Scientist. 
 
 - 🌱 I’m learning **Django and Typescript.**
 
