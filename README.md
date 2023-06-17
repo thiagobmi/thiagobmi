@@ -4,7 +4,7 @@
 
 - 📝  I'm undergoing my studies at Unipampa to become a Computer Scientist. 
 
-- 🌱 I’m learning **Django and Typescript.**
+- 🌱 I’m learning **C++, Django and Typescript.**
 
 - 💬 Ask me about **C, Python and javascript.**
 
