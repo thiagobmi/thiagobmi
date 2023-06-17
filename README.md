@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Django and Typescript.**
 
-- 💬 Ask me about **C, C++, Python and javascript.**
+- 💬 Ask me about **C, Python and javascript.**
 
 - 📫 How to reach me **thiagomorais.aluno@unipampa.edu.br**
 
