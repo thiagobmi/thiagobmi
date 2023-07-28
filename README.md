@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago</h1>
+<h1 align="center">Hi, I'm Thiago</h1>
 
 - 🔭 I’m currently working on [my whatsapp bot.](https://github.com/thiagobmi/whatsapp_bot)
 
