@@ -1,5 +1,5 @@
 ##  <p align="center"> <b> Welcome to my GitHub </b></p>
-<p align="center"><b>Computer Science Undergrad at Unipampa</b></p>
+<p align="center"><b>Computer Science Undergrad and Student Researcher at Unipampa</b></p>
 
 <div align="center" style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
