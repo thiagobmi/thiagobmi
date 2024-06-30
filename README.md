@@ -1,4 +1,4 @@
-##  <p align="center"> <b> Welcome to my GitHub </b></p>
+##  <p align="center"> <b> Welcome to my GitHub profile </b> </p>
 ### <p align="center"><b>Computer Science Undergrad and Student Researcher at Unipampa</b></p>
 
 <div align="center" style="display: inline_block; text-align: center;"><br>
