@@ -9,14 +9,14 @@
 
 ---
 
-### **🚀 Current Projects:**
+### **Current Projects:**
 - Helping to develop scalable solutions for streaming and live broadcasts in collaboration with CDNTV through a research and development grant.
-- Working on **software-defined networks** and integrating **machine learning** algorithms into networks at LOSPAMPA (Unipampa's Systems Optimization Laboratory).
+- Working on ***software-defined networks*** and integrating ***machine learning*** algorithms into networks at LOSPAMPA (Unipampa's Systems Optimization Laboratory).
 
-I have a strong interest in **networking**, **machine learning**, and **web development**. 
+I have a strong interest in ***networking***, ***machine learning***, and ***web development***. 
 
 
-## ⚡ Technologies! My current stack ... 💾
+## Technologies! My current stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
