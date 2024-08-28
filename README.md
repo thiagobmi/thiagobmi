@@ -1,8 +1,4 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=00000&height=200&section=header&text=@thiagobmi&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&descAlignY=51&descAlign=62)
 
-</div>
 
 ---
 ### <p align="center">Full Stack Developer, Student Researcher and Computer Science Undergrad at [Unipampa](https://unipampa.edu.br/portal/#) 🖥️📚</p>
