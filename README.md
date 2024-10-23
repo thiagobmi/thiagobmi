@@ -1,7 +1,7 @@
 
 
 ---
-### <p align="center">Full Stack Developer, Student Researcher and Computer Science Undergrad at [Unipampa](https://unipampa.edu.br/portal/#) 🖥️📚</p>
+### <p align="center">Full Stack Developer, Student Researcher and Computer Science Undergrad at [Unipampa](https://unipampa.edu.br/portal/#)</p>
 
 ---
 
