@@ -9,7 +9,7 @@
 - Helping to develop scalable solutions for streaming and live broadcasts in collaboration with CDNTV through a research and development grant.
 - Working on ***software-defined networks*** and integrating ***machine learning*** algorithms into networks at LOSPAMPA (Unipampa's Systems Optimization Laboratory).
 
-I have a strong interest in ***networking***, ***machine learning***, and ***web development***. 
+I have interest in ***networking***, ***machine learning***, and ***web development***. 
 
 
 ## Technologies! My current stack
