@@ -11,7 +11,7 @@
 
 I have interest in ***networking***, ***machine learning***, and ***web development***. 
 
-
+**My Lattes**: https://lattes.cnpq.br/6417874953427799
 ## Technologies! My current stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,5 +36,6 @@ I have interest in ***networking***, ***machine learning***, and ***web developm
 <div align="center"> 
   <a href = "mailto:thiagomorais.aluno@unipampa.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagobmi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+
